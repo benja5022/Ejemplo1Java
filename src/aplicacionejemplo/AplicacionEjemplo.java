@@ -18,6 +18,9 @@ public class AplicacionEjemplo {
         System.out.print("Ejemplo1");
         
         System.out.println("Ejemplo2");
+        
+        System.out.println("Colo Colo Campeón del Universo");
+    
     }
     
 }
