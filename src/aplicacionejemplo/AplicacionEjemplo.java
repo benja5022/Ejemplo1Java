@@ -16,6 +16,8 @@ public class AplicacionEjemplo {
      */
     public static void main(String[] args) {
         System.out.print("Ejemplo1");
+        
+        System.out.println("Ejemplo2");
     }
     
 }
